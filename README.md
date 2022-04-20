@@ -1,2 +1,1 @@
-This is a Sample Maven App. 
-Test polling
+This is a Sample Maven App.
